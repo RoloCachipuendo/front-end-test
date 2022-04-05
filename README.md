@@ -11,3 +11,4 @@ Clonar el repositorio
 - [ ] ejecutar npm install
 - [ ] ejecutar npm start
 -  se ejecutara por el puerto 3000.
+## Para realizar las pruebas los dos proyectos deben estar ejecuntandose en la misma red.
