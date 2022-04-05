@@ -1,0 +1,11 @@
+/*export const API_GET_ALL_COSTUMER = "/admin/clientes/";
+export const API_GET_SEARCH_COSTUMERS = "/admin/clientes/buscar/";
+export const API_POST_SAVE_COSTUMERS = "/admin/clientes/registro-cliente";
+export const API_POST_SAVE_PROVAIDER = "/admin/proveedores/registro-proveedor";
+export const API_PUT_UPDATE_COSTUMERS = "/admin/clientes/actualizar-cliente/";*/
+export const API_LOCAL_SAVE_EMP="/empleados/guardar"
+export const API_LOCAL_GET_ALL_EMP="/empleados/todos"
+export const API_PUT_LOCAL_UPDATE_EMP = "/empleados/actualizar";
+export const API_POST_SAVE_CLAVE = "/claves/crear";
+export const API_LOCAL_GET_BUSCAR = "/empleados/busqueda?";
+export const API_LOCAL_LOGIN = "/claves/login";

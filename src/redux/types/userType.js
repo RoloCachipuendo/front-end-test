@@ -1,0 +1,4 @@
+export const AUTH_USER_SUCCESS = "AUTH_USER_SUCCESS";
+export const AUTH_USER_ERROR = "AUTH_USER_ERROR";
+export const AUTH_USER_TMP = "AUTH_USER_TMP";
+export const SIGN_OFF_USER = "SIGN_OFF_USER";
